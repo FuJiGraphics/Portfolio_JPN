@@ -9,7 +9,7 @@
 ## 開発者紹介
 - **名前**: チョイ・チョルジン (CHEOLJIN CHOI)
 - **メール**: chlcjfwls1@naver.com
-- **ブログ**: https://sksnxjs.tistory.com（Tistory）<br><br>
+- **ブログ**: https://sksnxjs.tistory.com
 
 ## 主なプロジェクト
 
