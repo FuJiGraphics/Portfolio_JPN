@@ -16,7 +16,7 @@
 ### 1. Vega Engine
 C++ベースで制作した2Dゲームエンジンです。Unityのコア構造を分析し、機能的に模倣しました。
 
-- **デモ動画**: https://youtu.be/znGyzn23iWI **（エンジンを使用してFlappy Birdの開発過程をデモしました）**
+- **デモ動画**: https://youtu.be/2tLTofBANtY **（エンジンを使用してFlappy Birdの開発過程をデモしました）**
 - **技術文書**: https://github.com/FuJiGraphics/Portfolio/blob/master/3_TechDocs/1_VegaEngine_Tech.pdf
 - **ソースコード**: https://github.com/FuJiGraphics/Portfolio/tree/master/1_VegaEngine
 - **GitHub**: https://github.com/FuJiGraphics/VegaEngine.ver2.git
